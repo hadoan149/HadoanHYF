@@ -1,14 +1,13 @@
 ## Hello World! 👋
 
-<div align="center">  Welcome to crib :japanese_castle:</div>
- <h1 align="center">
-    <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" width="90px">
-  </h1>
-  This is dedicated to <strong>Hack Your Future Belgium</strong>
+# Welcome to crib :japanese_castle:
+![Penguin saying hello](https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif)
+
+  >This is dedicated to **Hack Your Future Belgium
  
 </div>
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Studying Business
 - 🌱 &nbsp; 23 years old 
